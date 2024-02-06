@@ -6,4 +6,4 @@
 5. JAVA_4_Iterator_project_1: 자바 Iterable 인터페이스 구현 1번 문제
 6. JAVA_4_Iterator_project_2: 자바 Iterable 인터페이스 구현 2번 문제 
 
-튜터링에 선정되지 않아서 프로젝트를 중단합니다. 
+프로젝트를 중단합니다. 
